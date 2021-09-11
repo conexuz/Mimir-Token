@@ -1,7 +1,4 @@
 pragma solidity >=0.4.16 <0.7.0;
- 
-    // Smart contracts by QuillPlay
-
 
 
     /* https://github.com/LykkeCity/EthereumApiDotNetCore/blob/master/src/ContractBuilder/contracts/token/SafeMath.sol */
