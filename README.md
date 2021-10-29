@@ -5,4 +5,5 @@ Custom erc20 token on Polygon network.
 -- Having voting features
 -- Mint and burn function
 
-When deploying the smart contract, it will have 0 supply initially. Use mint function to generate tokens. 
+Token contract audit: https://drive.google.com/file/d/1kmBWVtSawb_M4j-ppAAqWiJDmC1YhszX/view
+Token address on etherescan: https://etherscan.io/address/0x71dc40668682a124231301414167e4cf7f55383c
